@@ -1,4 +1,4 @@
-# Internal Testing Program for the Software Suite: Questionnaire Editor XBRL
+# Internal Testing Program for the Software Suite: Editor XBRL
 **Release**: x.xxx.xxx from xx.xx.xxxx  
 
 ## Document Specification  
