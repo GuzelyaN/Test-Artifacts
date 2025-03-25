@@ -25,4 +25,4 @@ Several buttons on the Filters panel remain inactive. To activate them, the user
 - To activate the inactive buttons, an additional click on the axis indicator is required.  
 
 ## 📎 Attachments  
-_(Attach screenshots or recordings if available.)_  
+
