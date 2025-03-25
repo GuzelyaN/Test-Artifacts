@@ -1,9 +1,9 @@
 # 🐞 Bug Report 1: Misalignment of Comment and Share Buttons at 1024px  
 
 ## 📌 Environment  
-- **🌐 Browser:** Firefox  
-- **📏 Screen Width:** 1024px  
-- **🌍 Affected Languages:** Russian, English  
+ **🌐 Browser:** Firefox  
+ **📏 Screen Width:** 1024px  
+ **🌍 Affected Languages:** Russian, English  
 
 ## 🔄 Steps to Reproduce  
 1. Open **[econs.online](https://econs.online/)** and authenticate.  
