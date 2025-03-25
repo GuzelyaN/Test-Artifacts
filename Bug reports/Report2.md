@@ -1,5 +1,6 @@
 # 🐞 Bug Report 2: Some Buttons on the Filters Panel Are Inactive  
 
+## 📌 Environment 
 **🖥 OS:** MS Windows  
 **📌 Release:** x.xxx.xxx  
 
