@@ -6,9 +6,9 @@
  **🌍 Affected Languages:** Russian, English  
 
 ## 🔄 Steps to Reproduce  
-1. Open **[econs.online](https://econs.online/)** and authenticate.  
+1. Open **[site](link)** and authenticate.  
 2. Set the screen width to **1024px**.  
-3. Navigate to the article **"How Central Banks Had to Change"**.  
+3. Navigate to the article **"How Banks Had to Change"**.  
    - ✅ The **comment and share buttons** are correctly aligned.  
 4. Scroll down to the middle of the article.  
    - ❌ The **comment button shifts to the right**.  
