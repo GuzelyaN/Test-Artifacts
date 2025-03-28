@@ -8,9 +8,9 @@
 At a screen width of **1024px**, the alignment of the **comment button** is not maintained during scrolling. In both the **Russian** and **English** versions of the site, the comment button shifts to the right after scrolling.  
 
 ## 🔄 Steps to Reproduce  
-1. Open the page **[econs.online](https://econs.online/)** and authenticate.  
+1. Open the page **[site](link)** and authenticate.  
 2. Set the screen width to **1024px**.  
-3. Open the article **"How Central Banks Had to Change"**.  
+3. Open the article **"How Banks Had to Change"**.  
    - The comment and share button block is correctly aligned.  
 4. Scroll down to the middle of the article.  
    - ❌ The **comment button shifts to the right**.  
